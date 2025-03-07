@@ -14,4 +14,6 @@ Uses a constantly updated list of keywords (thanks [dannw & yeswe](https://disco
 
 Completely open-source (trash code 😭)
 
+-rep got me oppression
+
 > Join the [discord server](https://discord.gg/BVwpd7jwYj) for news and support
