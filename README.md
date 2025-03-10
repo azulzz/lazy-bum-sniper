@@ -1,3 +1,5 @@
+Sniper that joins links sent in Sol's RNG'S Discord server automatically
+
 Detects:
   - Glitched
   - Dreamspace
