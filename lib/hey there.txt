@@ -1,5 +1,0 @@
-hey, you found me!!
-
-sniper.py is where the open source code of this project is and the icon for the application on the ui, change it if you would like lol
-
--azul (was here)
