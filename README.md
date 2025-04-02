@@ -23,8 +23,8 @@ Uses a constantly updated list of keywords (thanks [dannw & yeswe](https://disco
 
 Completely open-source (trash code 😭)
 
-Tutorial coming soon
+*Tutorial coming soon*
 
--rep got me oppression
+> **This project is dedicated to [Curious Pengu 🐧](https://github.com/curiouspengu) and his legacy in the Radiant Team. May he rest in peace.**
 
-> Join the [discord server](https://discord.gg/BVwpd7jwYj) for news and support
+> Join the [Discord Server](https://discord.gg/BVwpd7jwYj) for news and support
