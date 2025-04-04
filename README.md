@@ -25,6 +25,4 @@ Completely open-source (trash code 😭)
 
 *Tutorial coming soon*
 
-> **This project is dedicated to [Curious Pengu 🐧](https://github.com/curiouspengu) and his legacy in the Radiant Team. May he rest in peace.**
-
 > Join the [Discord Server](https://discord.gg/BVwpd7jwYj) for news and support
