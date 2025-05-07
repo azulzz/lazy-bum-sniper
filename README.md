@@ -23,6 +23,6 @@ Uses a constantly updated list of keywords (thanks [dannw & yeswe](https://disco
 
 Completely open-source (trash code 😭)
 
-*Tutorial coming soon*
+Tutorial: https://www.youtube.com/watch?v=StDAqzRBt9g
 
 > Join the [Discord Server](https://discord.gg/BVwpd7jwYj) for news and support
